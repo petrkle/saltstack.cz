@@ -1,0 +1,12 @@
+{
+    "name" : "saltstack.cz",
+    "version" : "1.0.0",
+    "author" : "Petr Kletečka",
+    "private" : true,
+
+    "devDependencies" : {
+        "grunt-cli" :                   "*",
+        "grunt-exec" :                  "*",
+        "grunt-contrib-watch":          "*"
+    }
+}
