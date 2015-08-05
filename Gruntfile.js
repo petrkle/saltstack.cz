@@ -10,7 +10,7 @@ module.exports = function(grunt){
         	}
         },
         watch:{
-        	files:['source/*.*', 'source/*/*.*'],
+        	files:['config.rb', 'source/*.*', 'source/*/*.*'],
         	tasks:['exec:make'],
 					   options: {
 								livereload: true,
