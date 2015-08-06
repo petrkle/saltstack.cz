@@ -4,4 +4,4 @@
 Saltstack je systém pro automatizaci nastavení linuxových serverů.
 
 
-[![Build Status](https://travis-ci.org/petrkle/satstack.cz.svg?branch=master)](https://travis-ci.org/petrkle/saltstack.cz)
+[![Build Status](https://travis-ci.org/petrkle/saltstack.cz.svg?branch=master)](https://travis-ci.org/petrkle/saltstack.cz)
