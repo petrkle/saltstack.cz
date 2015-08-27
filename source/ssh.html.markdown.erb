@@ -42,7 +42,7 @@ je v adresáři [ssh](https://github.com/petrkle/instantni-vps/tree/master/salt/
 Mode, user a group určují nastavení přístupových práv.
 
 template: jinja nastaví, že v šabloně můžeme použít proměnou [{{ pillar.ssh_port }}](https://github.com/petrkle/instantni-vps/blob/master/pillar/data.sls),
-místo které se doplní port na kterém běží ssh server.
+místo které se doplní port na kterém běží ssh server. Číslo portu se použije i v nastavení [iptables](/iptables/). Stačí ho tak změnit na [jednom místě](https://github.com/petrkle/instantni-vps/blob/master/pillar/data.sls) a nestane se vám, že si odříznete přístup na server.
 
 A nakonec watch_in: service ... určuje, že při změně konfiguračního
 souboru má dojít k restartu služby, aby se načetla nová konfigurace.

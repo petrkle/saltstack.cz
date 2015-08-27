@@ -11,6 +11,7 @@ web:
 
 install:
 	bundle install
+	npm install
 
 watch:
 	grunt watch
