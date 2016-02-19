@@ -2,7 +2,7 @@ help:
 	@echo "help     - tato nápověda"
 	@echo "web      - vygeneruje web"
 	@echo "watch    - přegeneruje web pri změně"
-	@echo "install  - nainstaluje ruby závislosti"
+	@echo "install  - nainstaluje závislosti"
 	@echo "clean    - smaže generované ikonky"
 
 web:
