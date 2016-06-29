@@ -10,7 +10,6 @@ page "/googledacab463a141d625.html", :directory_index => false
 configure :build do
 	activate :syntax
 	activate :directory_indexes
-  activate :relative_assets
 	activate :minify_html
   activate :minify_css
   activate :asset_hash
