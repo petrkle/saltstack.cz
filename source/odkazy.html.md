@@ -10,7 +10,7 @@ title: Odkazy
 [Instantní VPS](https://github.com/petrkle/instantni-vps)
 
 
-Super rychlý [VPS od wedos.com](http://hosting.wedos.com/cs/virtualni-servery-ssd.html?affd=144699)
+Super rychlý [VPS od wedos.com](https://hosting.wedos.com/cs/virtualni-servery-ssd.html?ap=sHJwRU)
 
 
 [Videa automatických instalací](https://youtube.com/SaltstackCz)

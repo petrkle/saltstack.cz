@@ -4,9 +4,9 @@ title: VPS
 
 ## VPS
 
-VPS - virtual private server např. od [Wedos](http://hosting.wedos.com/cs/virtualni-servery-ssd.html?affd=144699).
+VPS - virtual private server např. od [Wedos](https://hosting.wedos.com/cs/virtualni-servery-ssd.html?ap=sHJwRU).
 
-Když vám nestačí [běžný webhosting](http://hosting.wedos.com/cs/webhosting.html?affd=144699) a chcete provozovat svůj web a elektronickou poštu sami.
+Když vám nestačí [běžný webhosting](https://hosting.wedos.com/cs/webhosting.html?ap=sHJwRU) a chcete provozovat svůj web a elektronickou poštu sami.
 
 Výhody:
 
