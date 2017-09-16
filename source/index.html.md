@@ -35,7 +35,7 @@ Debian. Proto začneme její instalací. A jak jinak než automatickou.
 
 ## [Instalace](/instalace)
 
-Jak nainstalovat Saltstack na Debian Jessie a Wheezy.
+Jak nainstalovat Saltstack na Debian Stretch.
 
 ## [Základy](/zaklady)
 
