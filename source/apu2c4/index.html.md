@@ -74,6 +74,6 @@ Krabičku zavřeme a zašroubujeme šroubky v rozích.
 
 <img src="/img/zasroubovani-krabicky.jpg" style="width:100%;max-width:1024px;" class="center"/>
 
-Napájecí zdroj o napětí 12V a max. proudu 2A. Konektor má 5,5 vější a 2,5 mm vnitřní průměr. Kladný pol je na vnitřním kontaktu.
+Napájecí zdroj o napětí 12V a max. proudu 2A. Konektor má 5,5 vější a 2,5 mm vnitřní průměr. Kladný pól je na vnitřním kontaktu.
 
 <img src="/img/napajeci-zdroj-apu2c4.jpg" style="width:100%;max-width:1024px;" class="center"/>
