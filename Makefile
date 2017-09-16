@@ -14,7 +14,7 @@ install:
 	npm install
 
 watch:
-	grunt watch
+	./node_modules/.bin/grunt watch
 
 clean:
 	rm -f source/img/slanka-*.png
