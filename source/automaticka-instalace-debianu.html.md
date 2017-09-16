@@ -28,8 +28,4 @@ Proběhne automatická instalace podle [souboru předvoleb a post instalačního
 
 Post instalační skript nainstaluje Saltstack, textový editor [vim](/vim) a přidá veřejný ssh klíč do adresáře uživatele petr.
 
-<div class="video-container">
-<iframe width="640" height="480" src="https://www.youtube.com/embed/aKyOFrACE1s?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
 Pro ještě pohodlnější instalaci poslouží [Vagrant](/vagrant), který automatizuje i vytvoření virtuálního počítače ve VirtualBoxu, s spuštění saltstacku.
