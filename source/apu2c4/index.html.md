@@ -8,6 +8,6 @@ title: PC Engines APU2C4
 
 - [Sestavení PC Engines APU2C4](sestaveni) 
 
-- [Připojení pře sériový port](seriovy-port)
+- [Připojení přes sériový port](seriovy-port)
 
 - [Instalace Debianu](instalace-debianu)
