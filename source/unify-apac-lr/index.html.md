@@ -4,11 +4,11 @@ title: Ubiquiti UAP-AC-LR
 
 # Ubiquiti UniFi AP-AC-LR
 
-<img src="/img/unifi-ap-ac-lr.jpg" style="width:100%;max-width:1024px;" class="center"/>
+<a href="/img/unifi-ap-ac-lr.jpg"><img src="/img/s.unifi-ap-ac-lr.jpg" style="width:100%;max-width:800px;" class="center"/></a>
 
-<img src="/img/unifi-ap-ac-lr-otevrena-krabice.jpg" style="width:100%;max-width:1024px;" class="center"/>
+<a href="/img/unifi-ap-ac-lr-otevrena-krabice.jpg"><img src="/img/s.unifi-ap-ac-lr-otevrena-krabice.jpg" style="width:100%;max-width:800px;" class="center"/></a>
 
-<img src="/img/unifi-ap-ac-lr-obsah-baleni.jpg" style="width:100%;max-width:1024px;" class="center"/>
+<a href="/img/unifi-ap-ac-lr-obsah-baleni.jpg"><img src="/img/s.unifi-ap-ac-lr-obsah-baleni.jpg" style="width:100%;max-width:800px;" class="center"/></a>
 
 ## Unifi Controller
 
