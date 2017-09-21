@@ -4,8 +4,9 @@ title: unbound
 
 # unbound
 
-DNS server
+DNS server.
 
+Instalace balíčku, spuštění a povolení služby.
 
 ```yaml
 unbound:
@@ -17,11 +18,17 @@ unbound:
     - enable: True
 ```
 
+Balíček s kořenovými certifikáty pro dnssec.
+
+
 ```yaml
 unbound-anchor:
   pkg:
     - installed
 ```
+
+[Nastavení](https://github.com/petrkle/debian-router/blob/master/salt/unbound/unbound.conf) DNS serveru unbound.
+
   
 ```yaml
 /etc/unbound/unbound.conf.d/unbound.conf:

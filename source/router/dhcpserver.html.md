@@ -4,6 +4,7 @@ title: ISC DHCP server
 
 # ISC DHCP server
 
+Instalace balíčku.
 
 ```yaml
 isc-dhcp-server:
@@ -14,6 +15,9 @@ isc-dhcp-server:
     - name: isc-dhcp-server
     - enable: True
 ```
+
+[Nastavení dhcp serveru](https://github.com/petrkle/debian-router/blob/master/salt/dhcpserver/dhcpd.conf).
+
 
 ```yaml
 /etc/dhcp/dhcpd.conf:
@@ -26,6 +30,7 @@ isc-dhcp-server:
   - watch_in:
       - service: isc-dhcp-server
 ```
+Nastavení [síťových rozhraní](https://github.com/petrkle/debian-router/blob/master/salt/dhcpserver/isc-dhcp-server).
 
 ```yaml
 /etc/default/isc-dhcp-server:
