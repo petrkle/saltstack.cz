@@ -33,6 +33,10 @@ Výpis změn v aktualizovaných balících.
 Všechny příklady jsou vyzkoušené na Linuxové distribuci
 Debian. Proto začneme její instalací. A jak jinak než automatickou.
 
+## [Linuxový router](/router)
+
+Nastavení linuxového routeru.
+
 ## [Instalace](/instalace)
 
 Jak nainstalovat Saltstack na Debian Stretch.
