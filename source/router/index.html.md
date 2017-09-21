@@ -14,7 +14,7 @@ DNS server.
 
 ## [APU2C4](/apu2c4)
 
-Hardware whodný pro stavbu routeru.
+Hardware vhodný pro stavbu routeru.
 
 ## [Unifi AP AC LR](/unify-apac-lr)
 
