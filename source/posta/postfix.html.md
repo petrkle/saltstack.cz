@@ -38,7 +38,7 @@ Nastavení jména poštovního systému.
       - service: postfix
 ```
 
-Konfigurační soubor postfixu.
+Hlavní [konfigurační soubor postfixu](https://github.com/petrkle/instantni-vps/blob/master/salt/postfix/main.cf).
 
 ```yaml
 /etc/postfix/main.cf:
@@ -54,7 +54,7 @@ Konfigurační soubor postfixu.
       - service: postfix
 ```
 
-Nastavení postfixového démona master.
+Nastavení postfixového démona [master](https://github.com/petrkle/instantni-vps/blob/master/salt/postfix/master.cf).
 
 ```yaml
 /etc/postfix/master.cf:
