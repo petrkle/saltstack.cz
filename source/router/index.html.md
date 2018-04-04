@@ -23,3 +23,7 @@ Wi-Fi access point.
 ## [cryptsetup](cryptsetup)
 
 Šifrovaný externí disk.
+
+## [icecast](icecast)
+
+Vlastní internetové rádio.
