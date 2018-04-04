@@ -12,8 +12,10 @@ title: Odkazy
 
 Super rychlý [VPS od wedos.com](https://hosting.wedos.com/cs/virtualni-servery-ssd.html?ap=sHJwRU)
 
+[subreg](https://subreg.cz/af/0cb8688ca/) - registrace domén
+
 
 [Videa automatických instalací](https://youtube.com/SaltstackCz)
 
 
-[Sůl pro vaše servery](http://www.zdrojak.cz/clanky/saltstack-sul-pro-vase-servery/) - článek o Saltstacku na zdrojak.cz
+[Sůl pro vaše servery](https://www.zdrojak.cz/clanky/saltstack-sul-pro-vase-servery/) - článek o Saltstacku na zdrojak.cz

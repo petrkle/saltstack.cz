@@ -19,3 +19,7 @@ Hardware vhodný pro stavbu routeru.
 ## [Unifi AP AC LR](/unify-apac-lr)
 
 Wi-Fi access point.
+
+## [cryptsetup](cryptsetup)
+
+Šifrovaný externí disk.
