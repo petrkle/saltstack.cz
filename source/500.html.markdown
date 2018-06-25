@@ -1,5 +1,5 @@
 ---
-layout: 500
+layout: "500"
 ---
 
 Služba je dočasně nedostupná

@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-gem "middleman", "~>3.3.12"
+gem "middleman"
 gem "middleman-minify-html"
-gem "builder", "~> 3.0"
+gem "builder"
 gem "redcarpet"
 gem "middleman-syntax"
