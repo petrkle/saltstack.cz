@@ -1,7 +1,6 @@
 help:
 	@echo "help     - tato nápověda"
 	@echo "web      - vygeneruje web"
-	@echo "watch    - přegeneruje web pri změně"
 	@echo "install  - nainstaluje závislosti"
 	@echo "clean    - smaže generované ikonky"
 
@@ -11,10 +10,6 @@ web:
 
 install:
 	bundle install
-	npm install
-
-watch:
-	./node_modules/.bin/grunt watch
 
 clean:
 	rm -f source/img/slanka-*.png
