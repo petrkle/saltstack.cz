@@ -7,13 +7,13 @@ title: Instalace
 Postup pro Debian Stretch
 
 ```bash
-echo 'deb http://repo.saltstack.com/apt/debian/9/amd64/latest stretch main' > /etc/apt/sources.list.d/saltstack.list
+wget -O /usr/share/keyrings/salt-archive-keyring.gpg https://repo.saltproject.io/py3/debian/10/amd64/latest/salt-archive-keyring.gpg
 
-wget -q -O- "https://repo.saltstack.com/apt/debian/9/amd64/latest/SALTSTACK-GPG-KEY.pub" | apt-key add -
+echo "deb [signed-by=/usr/share/keyrings/salt-archive-keyring.gpg arch=amd64] https://repo.saltproject.io/py3/debian/10/amd64/latest buster main" > /etc/apt/sources.list.d/salt.list
 
 apt-get update
 
 apt-get install -y salt-minion
 ```
 
-Balíčky pro další distribuce: [repo.saltstack.com](https://repo.saltstack.com/)
+Balíčky pro další distribuce: [https://repo.saltproject.io](https://repo.saltproject.io/)
