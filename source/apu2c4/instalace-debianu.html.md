@@ -14,7 +14,7 @@ Na vytvořeném flash disku upravíme soubor `syslinux.cfg`. Doplníme parametr 
 vga=off console=ttyS0,115200n8
 ```
 
-pro vypnutí grafického výstupu a aktivaci sérivé konzole.
+pro vypnutí grafického výstupu a aktivaci sériové konzole.
 
 <a href="/img/apu2c4-instalace-debianu.jpg"><img src="/img/s.apu2c4-instalace-debianu.jpg" style="width:100%;max-width:800px;" class="center"/></a>
 
