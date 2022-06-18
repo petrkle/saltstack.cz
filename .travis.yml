@@ -1,5 +1,5 @@
 language: ruby
 rvm:
-  - 2.5
+  - 2.7
 install: make install
 script: make web
